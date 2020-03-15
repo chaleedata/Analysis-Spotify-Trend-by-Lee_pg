@@ -1,4 +1,4 @@
-# Analysis-Spotify-Trend-by-Lee
+# Analysis-Spotify-Trend-by-
 # Exploratory Data Analysis (EDA)+ process visualization 
 
 Hi, everyone. This my EDA + Preprocessing for Top 50 Spotify Songs - 2019 dataset. If you have a questions or would like to share your work please tell me in my comments. Enjoy the notebook :)
